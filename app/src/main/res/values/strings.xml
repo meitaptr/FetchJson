@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">FetchJson</string>
+    <string name="noInternet">No Internet Connection</string>
+    <string name="yes">YES</string>
+</resources>
